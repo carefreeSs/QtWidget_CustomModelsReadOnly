@@ -1,0 +1,2 @@
+# QtWidget_CustomModelsReadOnly
+QStandardItemModels-TreeWidget, TableWidget,ListWidget
